@@ -1,4 +1,4 @@
-Gogs [![Build Status](https://travis-ci.org/gogs/gogs.svg?branch=master)](https://travis-ci.org/gogs/gogs) [![Build status](https://ci.appveyor.com/api/projects/status/b9uu5ejl933e2wlt/branch/master?svg=true)](https://ci.appveyor.com/project/Unknwon/gogs/branch/master) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/gogs/localized.svg)](https://crowdin.com/project/gogs) [![Discord](https://img.shields.io/discord/382595433060499458.svg)](https://discord.gg/9aqdHU7)
+Gogs [![Build Status](https://travis-ci.org/gogs/gogs.svg?branch=master)](https://travis-ci.org/gogs/gogs) [![Build status](https://ci.appveyor.com/api/projects/status/b9uu5ejl933e2wlt/branch/master?svg=true)](https://ci.appveyor.com/project/Unknwon/gogs/branch/master) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/gogs/localized.svg)](https://crowdin.com/project/gogs) [![Discord](https://img.shields.io/discord/382595433060499458.svg)](https://discord.gg/9aqdHU7) [![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/gogs.svg)](https://www.guardrails.io)
 =====================
 
 ![](https://github.com/gogs/gogs/blob/master/public/img/gogs-large-resize.png?raw=true)
